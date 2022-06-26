@@ -10,9 +10,9 @@ The data shown here was obtained from Citybike, a Bike Share company in New York
 
 *The breakdown of users between service subscribers and single use customer is approximately 4 to 1, with subscribers in the vast majority of users of the bike share service
 
-*lowest use hours for the service, and therefore times most convenient for bike pick up and maintenance, would be between the hours of 2 and 5 AM.
+*Lowest use hours for the service, and therefore times most convenient for bike pick up and maintenance, would be between the hours of 2 and 5 AM.
 
-*The image below shows use of citibikes grouped by gender, day, and time. We can see a trend to early morning and late afternoon commuting hours for usage, as well as a somewhat surprising trend of male users outnumbering female. The darker red signifies the largest number of users, while a lighter shade indicates lighter usage for that group and time slot.  
+*The image below shows use of Citibikes grouped by gender, day, and time. We can see a trend to early morning and late afternoon commuting hours for usage, as well as a somewhat surprising trend of male users outnumbering female. The darker red signifies the largest number of users, while a lighter shade indicates lighter usage for that group and time slot.  
 ![This is an image](https://github.com/yvoatelep/Bike_Share_Challenge/blob/main/Resources/Images/Storyframe.1.png)
 
 *The next image shows trips grouped by gender and duration. Again, we see the trend to commuting times and male users. We can also see that shorter trip times are more common, reinforcing the idea that commuter use is heavy for this service. 
