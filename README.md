@@ -7,7 +7,9 @@ The data shown here was obtained from Citybike, a Bike Share company in New York
 
 ### Results
 *A total of 2,344,244 rides were logged in August of 2019. NOTE: The population of NYC in 2019 was approximately 15 times that of NYC. This must be kept in mind when looking at the specific numbers involved in this data, although general trends may be informative. 
+
 *The breakdown of users between service subscribers and single use customer is approximately 4 to 1, with subscribers in the vast majority of users of the bike share service
+
 *lowest use hours for the service, and therefore times most convenient for bike pick up and maintenance, would be between the hours of 2 and 5 AM.
 
 *The image below shows use of citibikes grouped by gender, day, and time. We can see a trend to early morning and late afternoon commuting hours for usage, as well as a somewhat surprising trend of male users outnumbering female. The darker red signifies the largest number of users, while a lighter shade indicates lighter usage for that group and time slot.  
@@ -19,8 +21,8 @@ The data shown here was obtained from Citybike, a Bike Share company in New York
 *The following image shows bike use grouped by gender and user type (subscriber vs customer). Here, we can see that subscribers are definitely the majority of users of the service. This is an important detail as the Bike Share start up in Des Moines will want to target advertising to encourage subscriber use rather than casual occasional use of the application. 
 ![This is an image](https://github.com/yvoatelep/Bike_Share_Challenge/blob/main/Resources/Images/Storyframe.3.png)
 
-*The follwoing image image shows trips by duration and continues to emphasize that shorter trip times are more common, possibly due to many riders utilizing the bike share service for communting purposes. We should bear in mind that this might be very specific to the NYC market. More investigation of this will be important as we plan for the Des Moines venture. 
-![This is an image](https://github.com/yvoatelep/Bike_Share_Challenge/blob/main/Resources/Images/Storyframe.4.png)
+*The image below shows trips by duration and continues to emphasize that shorter trip times are more common, possibly due to many riders utilizing the bike share service for communting purposes. We should bear in mind that this might be very specific to the NYC market. More investigation of this will be important as we plan for the Des Moines venture. 
+![This is an image](https://github.com/yvoatelep/Bike_Share_Challenge/blob/main/Resources/Images/Storyframe4.png)
 
 *This final image shows a heat map reflecting day and time usage of the service. Again, we see commuting times most popular on the weekdays, while weekend use is spread more evenly throughout the day, possibly pointing to a different type of user on the weekends. 
 ![This is an image](https://github.com/yvoatelep/Bike_Share_Challenge/blob/main/Resources/Images/Storyframe.5.png)
