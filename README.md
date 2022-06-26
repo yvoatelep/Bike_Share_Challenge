@@ -6,7 +6,7 @@ The goal of this analysis is to show viability for a Bike Share venture in Des M
 The data shown here was obtained from Citybike, a Bike Share company in New York City. The data shown is that of a single month, August of 2019.
 
 ### Results
-*A total of 2,344,244 rides were logged in August of 2019. NOTE: The population of NYC in 2019 was approximately 15 times that of NYC. This must be kept in mind when looking at the specific numbers involved in this data, although general trends may be informative. 
+*A total of 2,344,244 rides were logged in August of 2019. NOTE: The population of NYC in 2019 was approximately 15 times that of Des Moines, Iowa. This must be kept in mind when looking at the specific numbers involved in this data, although general trends may be informative. 
 
 *The breakdown of users between service subscribers and single use customer is approximately 4 to 1, with subscribers in the vast majority of users of the bike share service
 
